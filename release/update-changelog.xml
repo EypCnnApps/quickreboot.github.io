@@ -1,4 +1,11 @@
-Changelog 1.9
-
-New Language: Chinese Simplified 
-Minor Bug Fixed
+<AppUpdater>
+  <update>
+    <latestVersion>1.9</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
+    <url>https://eypcnnapps.github.io/quickreboot.github.io/</url>
+    <releaseNotes>
+- New Language: Chinese Simplified 
+- Minor Bug Fixed
+    </releaseNotes>
+  </update>
+</AppUpdater>
