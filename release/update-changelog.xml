@@ -1,12 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.9</latestVersion>
-    <latestVersionCode>10</latestVersionCode>
+    <latestVersion>2.0</latestVersion>
+    <latestVersionCode>11</latestVersionCode>
     <url>https://eypcnnapps.github.io/quickreboot.github.io/</url>
     <releaseNotes>
-- New Language: Chinese Simplified 
+- New Language: German, Czech
 - Minor Bug Fixed
-- New Update Screen
+- New Night Mode Color
     </releaseNotes>
   </update>
 </AppUpdater>
