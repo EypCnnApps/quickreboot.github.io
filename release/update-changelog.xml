@@ -1,12 +1,15 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.0</latestVersion>
-    <latestVersionCode>11</latestVersionCode>
+    <latestVersion>2.1</latestVersion>
+    <latestVersionCode>12</latestVersionCode>
     <url>https://eypcnnapps.github.io/quickreboot.github.io/</url>
     <releaseNotes>
-- New Language: German, Czech
+- New Language: Slovak
 - Minor Bug Fixed
 - New Night Mode Color
+- New Mode: EDL Reboot, Turn Off Screen
+- Checking Root Splash Screen
+- New Iconset
     </releaseNotes>
   </update>
 </AppUpdater>
