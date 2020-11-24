@@ -1,12 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.2</latestVersion>
-    <latestVersionCode>13</latestVersionCode>
+    <latestVersion>2.3</latestVersion>
+    <latestVersionCode>14</latestVersionCode>
     <url>https://eypcnnapps.github.io/quickreboot.github.io/</url>
     <releaseNotes>
 - Minor Bug Fixed
 - Resources Updated
-- Tablet Mode Added
 - Translation Errors Fixed
     </releaseNotes>
   </update>
